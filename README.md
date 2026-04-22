@@ -20,4 +20,4 @@ Table 6.10 (p. 204)
 ## 📄 License
 
 Code: MIT License  
-Data: FAO (CC BY 4.0)
+Data: Crop evapotranspiration: Guidelines for computing crop water requirements (FAO Irrigation and Drainage Paper No. 56, Rev. 1). Table 6.10, p. 204., (CC BY 4.0)
